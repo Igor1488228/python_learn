@@ -1,6 +1,6 @@
 # Problem Set 2, hangman.py
 # Name: 
-# Collaborators:
+# Collaborators:Vadim_Pusiak
 # Time spent:
 
 # Hangman Game
